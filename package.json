@@ -1,0 +1,25 @@
+{
+  "name": "movie-selector",
+  "version": "1.0.0",
+  "description": "Get a random movie to watch",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Muhammad-Ahmad-Saeed/Movie-Selector.git"
+  },
+  "keywords": [
+    "Random-movie-select",
+    "promises",
+    "call-back-func",
+    "npm-package"
+  ],
+  "author": "Muhammad-Ahmad-Saeed",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Muhammad-Ahmad-Saeed/Movie-Selector/issues"
+  },
+  "homepage": "https://github.com/Muhammad-Ahmad-Saeed/Movie-Selector#readme"
+}
